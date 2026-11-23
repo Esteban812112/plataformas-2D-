@@ -2,7 +2,7 @@
 
 Videojuego de plataformas 2D para dispositivos móviles, con una aplicación móvil que gestiona las cuentas de usuario y el progreso del jugador.
 
-Proyecto de la asignatura **Aplicaciones Móviles** — Facultad de Matemáticas e Ingenierías, Konrad Lorenz Fundación Universitaria. Bogotá D.C., 2026.
+Proyecto de la asignatura **Aplicaciones Móviles** —
 
 ## Contenido
 
