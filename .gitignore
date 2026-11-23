@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.env
+npm-debug.log*
+# Build del juego (se regenera desde Unity)
+frontend/assets/unity-webgl/
+# Backend
+backend/data/
+backend/salida.txt
+*.db
+*.db-journal
