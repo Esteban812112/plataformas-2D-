@@ -134,13 +134,7 @@ Algunas pruebas de integración pueden necesitar Docker en ejecución.
 - Las claves, contraseñas reales y direcciones privadas van en variables de entorno o en un archivo `.env`, que está excluido del repositorio con `.gitignore`. Nunca subas secretos reales.
 - El servidor es quien valida que el nivel esté entre 1 y 10; la app no decide el progreso por su cuenta.
 
-## Equipo
 
-| Integrante | Rol |
-|---|---|
-| Juan Esteban Pinzón Preciado | _(por completar)_ |
-| _(nombre del integrante 2)_ | _(por completar)_ |
-| _(nombre del integrante 3)_ | _(por completar)_ |
 
 ## Estado del proyecto
 
